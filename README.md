@@ -1,12 +1,12 @@
 # Opay-Fintech-Performance-Dashboard
  Page 1 
-<img width="890" height="547" alt="1" src="https://github.com/user-attachments/assets/49068049-a256-45a5-b98e-96c72523d724" />
+<img width="890" height="502" alt="Executive Overview" src="https://github.com/user-attachments/assets/a9d5d6e1-2f8f-4f0f-8e31-2dfb2eaf7946" />
 
 Page 2
-<img width="892" height="545" alt="2" src="https://github.com/user-attachments/assets/4e7a8459-0114-4059-ae48-4cdc2e296a00" />
+<img width="891" height="504" alt="Customer   Transaction Analysis" src="https://github.com/user-attachments/assets/87bad1e9-3432-434e-822a-b1be937f64df" />
 
 Page 3
-<img width="892" height="539" alt="3" src="https://github.com/user-attachments/assets/03dac9bd-260e-4e77-af43-fc6a183150fd" />
+<img width="890" height="508" alt="Risk   Fraud Analysis" src="https://github.com/user-attachments/assets/c6b13be1-6a04-4617-9d5b-4b50ba115cc9" />
 
 
 ## Problem Description
